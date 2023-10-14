@@ -1,6 +1,10 @@
 # Back-End
 # Python / Django ignore config
 venv/
+.env
+*__pycache__/
+db.sqlite3
+*migrations/
 
 # Front-end
 # Angular ignore confg.
