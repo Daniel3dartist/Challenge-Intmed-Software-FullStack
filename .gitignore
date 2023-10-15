@@ -2,6 +2,7 @@
 # Python / Django ignore config
 venv/
 .env
+*.pytest_cache
 *__pycache__/
 db.sqlite3
 *migrations/
